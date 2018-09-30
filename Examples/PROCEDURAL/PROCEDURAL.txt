@@ -1,0 +1,2 @@
+The original Youtube-DL website: http://rg3.github.io/youtube-dl/
+The Youtube-Dl GUI link: https://github.com/MrS0m30n3/youtube-dl-gui

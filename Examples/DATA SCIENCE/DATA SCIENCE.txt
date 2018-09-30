@@ -1,0 +1,15 @@
+CPSC 599 SAMPLE
+-----
+Two datathons have been included in the repository.
+They consist of the works of Professor Wesley Willett, and my colleagues in the course.
+
+IntroToAnaconda
+-----
+An introductory Anaconda workbook that showcases some things can be done in Jupyter.
+It also shows the value of Data Science and the Anscombe data file.
+
+SnekChek
+-----
+Code used to write to the CSUS spreadsheet.
+It's rather useless since you (hopefully) don't know the credentials to the mailing list.
+Also, the spreadsheet has been removed for privacy reasons.

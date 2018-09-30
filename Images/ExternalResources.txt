@@ -1,0 +1,22 @@
+LOGO
+-----
+Python Programming Language Logo
+R Programming Language Logo
+Anaconda Navigator Logo
+Django Framework Logo
+Flask Microframework Logo
+CalgaryHacks Logo
+
+Photos
+-----
+Guido van Rossum's Twitter Profile Picture
+Automate the Boring Stuff Book Cover
+Dive into Python 3 Book Cover
+Garage 142 Photograph
+
+Graphs
+-----
+Stack Overflow Developer Survey 2018 Bar Graph
+KDnuggets Analytics/Data Science Top Tools Software Poll 2016 Bar Graph
+Google Trends Python Data Science vs. R Data Science Line Graph
+
